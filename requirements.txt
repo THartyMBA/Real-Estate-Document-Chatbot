@@ -1,6 +1,7 @@
-streamlit>=1.32
+streamlit
 langchain
-faiss-cpu
+langchain-community        # ensures DocArrayInMemorySearch import path
+docarray
 sentence-transformers
 PyPDF2
 requests
