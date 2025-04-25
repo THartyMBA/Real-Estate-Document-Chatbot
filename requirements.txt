@@ -1,0 +1,6 @@
+streamlit>=1.32
+langchain
+faiss-cpu
+sentence-transformers
+PyPDF2
+requests
