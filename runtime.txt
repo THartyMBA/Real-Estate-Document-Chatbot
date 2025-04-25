@@ -1,1 +1,2 @@
-python-3.10.13
+python-3.11.7            # or 3.10.13 – both have faiss-cpu wheels
+
